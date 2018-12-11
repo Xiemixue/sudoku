@@ -1,0 +1,4 @@
+﻿  unittest1.cpp
+d:\用户目录\我的文档\visualstudio2017代码文件\sudoku\unittest1\unittest1.cpp(64): warning C4129: “s”: 不可识别的字符转义序列
+d:\用户目录\我的文档\visualstudio2017代码文件\sudoku\unittest1\unittest1.cpp(72): warning C4129: “s”: 不可识别的字符转义序列
+  UnitTest1.vcxproj -> D:\用户目录\我的文档\VisualStudio2017代码文件\sudoku\Debug\UnitTest1.dll

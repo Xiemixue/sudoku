@@ -1,2 +1,4 @@
-﻿  stdafx.cpp
-  sudoku.cpp
+﻿  sudoku.cpp
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/PROFILE”规范)
+stdafx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:REF”规范)
+  sudoku.vcxproj -> D:\用户目录\我的文档\VisualStudio2017代码文件\sudoku\Debug\sudoku.exe
